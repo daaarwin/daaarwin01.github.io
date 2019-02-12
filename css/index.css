@@ -1,0 +1,68 @@
+*, html, body {
+  margin: 1;
+  padding: 0;
+}
+
+header {
+  background-color: black;
+  height: 60px;
+  line-height: 10px;
+}
+
+ul {
+  list-style: none;
+}
+
+ul li {
+  display: inline-block;
+}
+
+header nav {
+  float: right;
+}
+
+.logo img {
+  margin-top: -50px;
+  margin-left: -70px;
+}
+
+header nav ul li a {
+  padding-right: 30px;
+  font-weight: bolder;
+    color: Red;
+    transition: all .5s ease-in;
+}
+
+header nav ul li a:hover {
+
+  color: white;
+
+}
+
+
+
+/* li a:link {
+  color: Red;
+  font-family: Times;
+  text-decoration: none;
+  text-transform: uppercase;
+}
+
+li a:visited {
+  color: blue;
+  font bo
+}
+
+li a:active {
+  color: yellow;
+} */
+
+/* Sentence to Change */
+/* .QUOTES {
+  color: red;
+  font-family: "Times New Roman", Times, serif;
+   text-transform: uppercase
+}
+
+
+/* Image  */
