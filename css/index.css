@@ -41,7 +41,7 @@ header nav ul li a:hover {
 
 }
 body{
-  background-image: url("image/MainPage.jpg");
+  background-image: url("../image/MainPage.jpg");
   background-size: 100% 100%;
 }
 
