@@ -1,6 +1,8 @@
 *, html, body {
   margin: 1;
   padding: 0;
+
+
 }
 
 header {
@@ -38,31 +40,31 @@ header nav ul li a:hover {
   color: white;
 
 }
-
-
-
-/* li a:link {
-  color: Red;
-  font-family: Times;
-  text-decoration: none;
-  text-transform: uppercase;
+body{
+  background-image: url("../image/MainPage.jpg");
+  background-size: 100% 100%;
 }
 
-li a:visited {
-  color: blue;
-  font bo
-}
 
-li a:active {
-  color: yellow;
+
+/* .imagebg{
+
 } */
 
-/* Sentence to Change */
-/* .QUOTES {
-  color: red;
-  font-family: "Times New Roman", Times, serif;
-   text-transform: uppercase
+span{
+  color: Orange;
 }
 
+.fa {
+font-size: 50px;
+color: white;
+}
+.alignment{
+  text-align: center;
+  color: white;
+}
 
-/* Image  */
+.textcolor{
+  color: white;
+
+}
